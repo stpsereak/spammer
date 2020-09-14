@@ -6,4 +6,4 @@
 • <code>python ~/spammer/install.py</code><br>
 • <code>spammer</code><br>
 # Лицензия
-<b>Проект распространяется под лицензией [Mozilla Public License 2.0](https://github.com/cludeex/spammer/blob/master/LICENSE). Скачивая программное обеспечение из [этого](https://github.com/cludeex/spammer) репозитория, вы соглашаетесь с ней.<br>
+<b>Проект распространяется под лицензией [Mozilla Public License 2.0](https://github.com/stpsereak/spammer/blob/fb47838d0fff96500639a4d3a4d5305c9b02c213/LICENSE). Скачивая программное обеспечение из [этого](https://github.com/stpsereak/spammer) репозитория, вы соглашаетесь с ней.<br>
